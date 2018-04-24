@@ -1,0 +1,8 @@
+﻿  Injekt_.cpp
+Injekt_.cpp(72): warning C4476: 'printf' : unknown type field character '|' in format specifier
+  Generating code
+  1 of 62 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Injekt_.vcxproj -> E:\OneDrive\Documents\Visual Studio 2015\Projects\Injekt_\x64\Release\Injekt_.exe
